@@ -1,4 +1,4 @@
-CREATE DATABASE  IF NOT EXISTS `web_customer_trcustomeracker`;
+CREATE DATABASE  IF NOT EXISTS `web_customer_tracker`;
 
 DROP TABLE IF EXISTS `customer`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
